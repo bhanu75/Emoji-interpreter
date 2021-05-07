@@ -8,7 +8,8 @@ var company = {
 	"⛮": "L&T",
 	"🖥️": "Microsoft",
   "📱": "Samsung",
-  "Q": "tele",
+  "Arcgate": "critical outsourcing services",
+	
 };
 var companyKeys = Object.keys(company);
 export default function App() {
