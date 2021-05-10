@@ -8,7 +8,6 @@ var company = {
 	"⛮": "L&T",
 	"🖥️": "Microsoft",
   "📱": "Samsung",
-  "Arcgate": "critical outsourcing services",
 	
 };
 var companyKeys = Object.keys(company);
